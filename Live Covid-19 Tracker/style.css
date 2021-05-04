@@ -1,0 +1,16 @@
+/* remember to add the link to index.html */
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2rem !important;
+}
+
+/* .container {
+  margin-top: 0 auto;
+} */
+
+h1 {
+  /* margin-top: 4rem; */
+  font-size: 3rem !important;
+}
