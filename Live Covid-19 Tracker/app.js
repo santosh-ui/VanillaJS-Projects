@@ -18,10 +18,11 @@ let trow = document.getElementById("data");
             console.log(Global);
 
             let data = Global;
-            const totCases = data.TotalConfirmed;
-            const totDeaths = data.TotalDeaths;
-            const totRecovered = data.TotalRecovered;
-            const cells = [totCases, totDeaths, totRecovered];
+            let {TotalConfirmed, TotalDeaths, TotalRecovered} = data;
+            // const totCases = data.TotalConfirmed;
+            // const totDeaths = data.TotalDeaths;
+            // const totRecovered = data.TotalRecovered;
+            const cells = [TotalConfirmed, TotalDeaths, TotalRecovered];
 
             for (cell in cells) {
                 let cellData = trow.insertCell();
@@ -52,6 +53,7 @@ function refreshData() {
 
 function clearData() {
     var children = Array.prototype.slice.call(trow.childNodes)
+    console.log(children)
     children.forEach(function (child) {
         trow.removeChild(child);
     });
