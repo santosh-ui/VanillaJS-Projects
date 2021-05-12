@@ -1,0 +1,46 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: "Oxygen", sans-serif;
+}
+/* HEADER */
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+/*  */
+
+.navbar-brand {
+  padding-top: 30px;
+}
+
+.navbar-brand h1 {
+  /* Restaurant's name */
+  font-family: "Lora", serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin: 0 auto;
+  line-height: 0.75;
+}
+
+.navbar-brand span {
+  /* K-Star */
+  font-size: 0.7em;
+  margin-top: 15px;
+  color: #000;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+#logo-image {
+  background-image: url("../images/restaurant-logo_large.png");
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}

@@ -1,0 +1,145 @@
+[SOUND]
+So now, we're ready to embark on our adventure of
+creating a real site for a real client. In my case, I approached a local
+restaurant called David Chu's China Bistro and we're going to be building
+a restaurant for them. Now before we go and visit with
+the client, let's go over some rules and just basic ideas, so
+you're not completely in the dark. Now obviously, this is not going to be
+a comprehensive business strategies or comprehensive how to deal with clients,
+but some basic ground rules just so we understand where we're coming from. And the first concept that you need
+to remember is that most clients have no idea what they want. It's not that they're ignorant. In fact, they're very smart
+about their own business. But they certainly, usually have no idea
+as to what they want on the website and how the whole thing works. So, it's really your job to ask questions. And most importantly, the right
+questions to help the client figure out what it is that they want and
+kind of communicate that back to you. A great way of doing it is if you
+bring some website examples of similar businesses that already have websites and
+have the client react to those websites. So you could show them a couple of
+websites and see do you like this? Do you like that? What do you like about this? What do you not like about that? Once you get enough of these
+examples in front of their eyes, you'll start getting a feeling as to
+what they will be satisfied with, but also what they actually are looking
+for in a website in their own product. Now as a general rule, every single client is going to want to
+put a lot of information on the page and they want a lot of information about their
+business and it makes sense, because there's a lot of things that you should
+know as a customer About their business. A lot of it is very important and they'll
+tell you that this is also important, I want this very much in bold and upfront. And this is also important,
+but I want it on the side and some more things are important and
+this is important and that's important, it's a very important reminder. It's all going to be very important and
+that's a pretty usual approach of clients, and it's perfectly human. The only problem is,
+is that when everything is important, nothing is really important. So again, it's your job really to encourage
+the client to follow a very simple rule. Less is more. The less information you put up,
+the more impact that information will get. So, the point is you should encourage
+your client not to cram information on the website. In fact, what you should try to help
+the client do is identify the crucial information, that most information that
+has the most punch to it and not just cram every information that is possibly
+there is to know about the business. Now, a quick tip I'd love to share
+with you is the fact that you should always try to find a way for the
+client to invest in the project and this is especially true if you're doing this
+for free just to build up your portfolio. The client needs to feel like they
+have some skin in the game, as well. If they don't, what's going to end up
+happening is that you're going to be some side project that they're really not
+going to pay much attention to and you're going to spend and
+invest all this time of your own and not necessarily get much
+cooperation from their side. So have them do something even if you're
+doing this for free, have them commit at least to pay for product photography,
+if that makes sense or have them commit to provide products
+that you need in order to demo it. Or maybe if you find your own photographer
+that's willing to do this for free, which I'm going to talk
+to you in a minute about. At least they will provide the product and
+they will have some actual real investment, a money investment in the game
+even if it's not super huge in amount. But as long as they actually are spending
+something, they have at least a little bit of an investment that they'll want to take
+the entire project much more seriously. Another important rule is make sure that
+you have the client designate one person responsible for decisions. If you don't, what's going to happen is
+that this person is going to tell you, really what we want is this way and
+the other person in the business is going to tell you we want something
+else differently here. If you have one person, you could always
+tell the other people that are suggesting things that it's a great suggestion and
+I am responsible to this particular one person and
+I'll bring that suggestion to that person. And if that person approves,
+I'll be more than happy to incorporate it, which brings me to another point. Limit the number of revisions UPFRONT. Make sure you communicate to the client
+upfront, have them even sign a contract, have them sign that this is the number
+of revisions that I'm willing to make. Because obviously,
+the clients can go on forever and ever and ever and your time is limited. Now if it's a paying job,
+don't limit revisions out of hand, but limit the number of free revisions. If you say, I will revise the site within
+reason not completely turn it upside down. But within reason, I'll revise
+it up to like three times free. And from then on,
+I'll have to charge you the per hour, you'll figure out how you
+want to structure it. Now, for a really comprehensive
+as to what to ask your client. I highly suggest you Google web
+development client questionnaire and you will see a whole bunch of resources
+that you can draw from to really find out how to ask these questions and
+what kind of answers to look for, just to learn a little bit
+about what this interaction is like if you've never done
+this before yourself. Another quick tip I'd like to share with
+you is you should try to involve others if you need it. So for example, if you're not
+a super duper graphic designer and we're really concentrating on coding
+things not really designing per se, you could contact the local college and
+see if a graphic designer student wants to join you and provide some free design
+services and put that on their resume. You'll get to do the coding,
+they'll get to do the design and so on. If there is makes sense for your website
+that you're trying to create that you need some photography like photography of
+products, you could do the same thing, you could find a photographer
+that is you know. A young, budding photographer that is
+willing to do things for free as long as, obviously, he's mentioned and credited and
+he's able to put that on his resume, his or her resume. And that way, you'll be able to collect a
+couple of professional resources that you won't feel like you have to do everything
+by yourself in order to produce something that really
+looks pretty professional. Now in my case for the David Chu's
+Chinese Bistro, I got pretty lucky, because my wife happens
+to be a graphic designer. So she will help me with the design at
+least preliminary design of a layout of the site and my son happens to be
+a photographer, at least a starting photographer and he is more than willing
+to provide the food photography service. Now, I'll follow my own advice. I will still have the restaurant
+owner invest in this project. And the way they will invest is that they
+agree to provide every single item on the menu to provide for us just, so we
+could take proper pictures of those items. And that's a pretty hefty investment,
+because they have to keep the staff after hours and cook, basically, every single
+item on the menu and provide it for us. So it's hours and hours of their work,
+but it's something that shows the client is involved and the client is
+committed and that's very important. Now, another thing is definitely don't go
+in to the meeting with the client without first finding out what does
+the client have right now. What kind of website do we have they have? What information is being displayed? Just to learn a little
+bit about the business. In my case, the David Chu's China Bistro
+has the following website. Let's go ahead and take a look at it. So here's a site, it's clearly put
+up on some free service of some, maybe it's not free, but
+of all right off of their phone number. That's their domain name and you can
+see all it is is a picture actually, if we take a look. It looks like yeah, it's a picture. It's a picture of their menu and I could
+see right off the bat that they have different categories in their menu,
+which is I guess pretty standard, but the website is definitely pretty
+horrible in terms of user experience. And certainly, doesn't show you
+the business in all it glory. So, we're going to go ahead and
+try to fix that. So let's summarize. First of all,
+don't forget to bring some examples of other websites to help your
+client figure out what they want. It's very often that the clients really
+don't understand what it is they want themselves and giving them some examples
+will help generate a discussion in kind of a direction as to where
+they really want to go. Also, encourage your client
+to use less information. It's a knee-jerk reaction,
+just about everybody who is not in the industry to try to cram as
+much information as possible and it's almost always the wrong way to go. It's better to have less and more potent
+information to their customers than have tons of information where
+everything gets lost. Figure out a way that your client
+should invest in the project. Whether they pay you a little bit,
+whether they up front pay for something, whether it's photography or
+providing their product. But it's got to be something that they
+have as they call skin in the game, so they will take this
+project seriously as well. Especially, this is especially
+true if you are doing this for free, just to kind of
+build up your portfolio. Very important thing to have is that the
+client should designate the one person as a decider of what things
+to have in the website or what not things to have on the website and
+just really everything about the project. If you have more than one person, chaos
+will start and you will spend way too much time dealing with things that
+have nothing to do with coding and nothing to do with the website, but just managing these relationships that
+really shouldn't be there to begin with. Just have one person, have the client designate one
+person to be the final decider. Also, limit the number of revisions. Don't let the client keep constantly
+revising and revising revising. So if you're doing this for free, certainly limit it to something
+reasonable like three times. But if you're doing it for pay,
+then limited to three times for free and then anything additional
+the client will actually have to pay for and another thing is involve others
+to help you produce a great product. It's rare to have one person person,
+kind of have a know-it-all do the photography, do the product
+photography, do the layouts and designs. Involve somebody else and
+have them help you and you'll get to concentrate on the coding. Next, let's go visit
+the actual restaurant, meet the owner and
+figure out what they want for a website. What does that mean? Field trip.
